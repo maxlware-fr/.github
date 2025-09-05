@@ -6,13 +6,11 @@ Versatile developer passionate about games, modern interfaces, and open‑source
 
 ## About Me
 - Languages: Python (PyQt6, FastAPI), Java, JavaScript (HTML/CSS/JS), Lua (Roblox)
-- Tools & Frameworks: VS Code, PyInstaller, Git, Tailwind CSS
+- Tools & Frameworks: VS Code, Git, Tailwind CSS
 - Interests: Minecraft (launchers, PvP Factions servers), Roblox, Discord bots, desktop apps
 - Front-end & Design: Modern websites (animations, light/dark mode, parallax)
-- Packaging: .py → .exe with icon, installer creation
 
 ## Featured Projects
-- Project	Tech & Key Features
 - maxlware.fr	My official website
 - Lumen Group	Certified Discord bot team
 - VenirPessi	Parody Twitter account and website
