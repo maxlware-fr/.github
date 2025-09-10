@@ -20,4 +20,4 @@ Versatile developer passionate about games, modern interfaces, and open‑source
 Email: contact@maxlware.fr
 
 *“Technology should stay simple and accessible, even when powerful.”*
-**—** MaxMew
+**—** Maxlware
