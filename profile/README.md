@@ -4,7 +4,7 @@ Versatile developer passionate about games, modern interfaces, and open‑source
 
 ---
 
-<iframe src="https://github-readme-stats.vercel.app/api?username=maxlware-fr&show_icons=true&theme=dark" height="180" width="500" frameborder="0"></iframe>
+![stats](https://github-readme-stats.vercel.app/api?username=maxlware-fr&show_icons=true&theme=dark)
 
 ---
 
