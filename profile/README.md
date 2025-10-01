@@ -1,4 +1,7 @@
 # Hi, I’m Maxlware 👋
+### I'm a independent developer in France.
+
+---
 
 Versatile developer passionate about games, modern interfaces, and open‑source. Based in France, I create **simple, elegant, and powerful tools** for gamers and developers.
 
