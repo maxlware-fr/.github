@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="1000" height="500" alt="bannière" src="https://github.com/user-attachments/assets/1b12b6ee-cb28-4028-91a2-33987244dfb2" />
+  <img width="1920" height="1080" alt="maxlware_banner" src="https://github.com/user-attachments/assets/d6dc72e0-c77f-4182-be26-548bbdc54c1a" />
   <!--
   <picture>
     <!<source media="(prefers-color-scheme: dark)" srcset="[https://github.com/user-attachments/assets/f32cbb5d-6c2c-4573-8b8f-1da5a9b99d65](https://github.com/user-attachments/assets/0dc597bf-0b30-4325-8229-56d5299db8b8)">
