@@ -9,5 +9,5 @@
   -->
 <br>
 <img src="https://komarev.com/ghpvc/?username=pastalapate&label=Profile%20views&color=0e75b6&style=flat" alt="maxlware-fr" /> </p>
-<img src="https://skillicons.dev/icons?i=ts,vercel,git,vue,md,github,cloudflare,py,tailwind,nginx,tauri,vite,discord,bots,electron,nodejs,powershell,qt,robloxstudio,vscode,windows,html,css,js,bun" />
+<img src="https://skillicons.dev/icons?i=ts,vercel,git,vue,md,github,cloudflare,py,tailwind,nginx,tauri,vite,discord,bots,electron,nodejs,powershell,qt,robloxstudio,vscode,windows,html,css,js,bun,blender,c,cpp,idea,java,jenkins,kotlin,postman,raspberrypi,wasm" />
 </p>
